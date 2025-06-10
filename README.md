@@ -27,10 +27,29 @@ An end-to-end AI-powered quality assurance system that:
 
 ---
 
+## 📷 Application Preview
+
+### Dashboard
+![UI Screen](screenshots/UI.png)
+*Dashboard*
+
+### Quality Passed 
+![Pass Image Screen](screenshots/Pass.png)
+*Quality Pass*
+
+### Defective 
+![Defect Image Screen](screenshots/Defect.png)
+*Defective Image Screen with Visuals*
+
+### Real-Time Checking 
+![Real-Time Check](screenshots/real.png)
+*Real-Time Checking with visuals*
+
+---
+
 ## 📸 Demo
 
 > 📹 [Demo Video Link](#)
-> 🌐 [Live Dashboard Preview (if hosted)](#)
 
 ---
 
