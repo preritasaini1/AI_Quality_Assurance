@@ -1,0 +1,731 @@
+
+✅ QR Code Read for Serial Number SN925652:
+Device ID: 2ac5e56d-5379-4750-a515-9efa948a6844
+Batch ID: BATCH3452
+Serial Number: SN925652
+Manufacturing Date: 2022-07-26
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN670383:
+Device ID: 93e3c654-0b5e-4689-85b3-3aa656268061
+Batch ID: BATCH5787
+Serial Number: SN670383
+Manufacturing Date: 2022-11-10
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN651036:
+Device ID: be44498f-f5e9-42c5-b83a-97239f9c73e0
+Batch ID: BATCH6197
+Serial Number: SN651036
+Manufacturing Date: 2023-06-27
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN223947:
+Device ID: eb859546-7395-4fcb-9613-72eaf3f06fa9
+Batch ID: BATCH6642
+Serial Number: SN223947
+Manufacturing Date: 2023-08-09
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN343615:
+Device ID: 02e0b717-ccb7-43d0-b409-9bc452ff598e
+Batch ID: BATCH2374
+Serial Number: SN343615
+Manufacturing Date: 2022-06-28
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN221011:
+Device ID: 28e5875f-3d71-4873-ad1e-8736f2ff9936
+Batch ID: BATCH8774
+Serial Number: SN221011
+Manufacturing Date: 2023-02-26
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN519843:
+Device ID: 778a23f5-bad0-415a-a6ee-998c49bd9772
+Batch ID: BATCH2407
+Serial Number: SN519843
+Manufacturing Date: 2023-04-25
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN751478:
+Device ID: 13fe2bb5-a74c-4e86-ad9c-4087e16bfc0c
+Batch ID: BATCH7880
+Serial Number: SN751478
+Manufacturing Date: 2023-08-08
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN855533:
+Device ID: 52502234-91ed-46b2-91b2-cab2380a840e
+Batch ID: BATCH5845
+Serial Number: SN855533
+Manufacturing Date: 2022-06-16
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN698201:
+Device ID: 0cc7c761-4caf-46a4-90f8-40af918c2384
+Batch ID: BATCH3896
+Serial Number: SN698201
+Manufacturing Date: 2022-01-09
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN210424:
+Device ID: ccb68564-090c-4d29-b93e-f6b3c9a54607
+Batch ID: BATCH5776
+Serial Number: SN210424
+Manufacturing Date: 2022-07-05
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN247896:
+Device ID: d727a4ce-2ea0-4c64-90e2-c7c2bb8adbde
+Batch ID: BATCH5817
+Serial Number: SN247896
+Manufacturing Date: 2022-01-30
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN918874:
+Device ID: 9ba1051f-b802-4310-bd3d-ee3b91bb993e
+Batch ID: BATCH4491
+Serial Number: SN918874
+Manufacturing Date: 2022-10-15
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN971441:
+Device ID: a017dcc2-5317-4d0f-8eb9-b59b879a71a5
+Batch ID: BATCH3197
+Serial Number: SN971441
+Manufacturing Date: 2023-06-14
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN223736:
+Device ID: 291d2c3f-1ac0-4850-82f0-3ad42c7658b3
+Batch ID: BATCH6039
+Serial Number: SN223736
+Manufacturing Date: 2023-11-24
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN240232:
+Device ID: 49a6b5c8-bbe9-42a6-9d95-4754597aa377
+Batch ID: BATCH6529
+Serial Number: SN240232
+Manufacturing Date: 2023-10-03
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN943773:
+Device ID: 822bedfb-4134-4182-8ac1-966509b88117
+Batch ID: BATCH8275
+Serial Number: SN943773
+Manufacturing Date: 2022-02-15
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN811006:
+Device ID: 92e53b00-5fbb-4e51-a8d8-65b84f7effde
+Batch ID: BATCH1769
+Serial Number: SN811006
+Manufacturing Date: 2022-02-13
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN820857:
+Device ID: 07afc0a6-3517-4eb0-b8a8-54f32ec7a018
+Batch ID: BATCH5232
+Serial Number: SN820857
+Manufacturing Date: 2023-11-07
+RoHS Compliance: Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN832212:
+Device ID: 989e8811-55e1-4a03-a28c-a35b7522f1eb
+Batch ID: BATCH9536
+Serial Number: SN832212
+Manufacturing Date: 2023-02-02
+RoHS Compliance: Non-Compliant
+Label: broken_large
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN629382:
+Device ID: c191f847-7281-45a4-996d-eeab2a9ad0fa
+Batch ID: BATCH1074
+Serial Number: SN629382
+Manufacturing Date: 2023-12-05
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+⚠️ Could not decode QR for Serial Number SN267940.
+
+✅ QR Code Read for Serial Number SN535591:
+Device ID: c73966c1-2299-4733-b0d3-0de7ab847423
+Batch ID: BATCH2488
+Serial Number: SN535591
+Manufacturing Date: 2022-03-23
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN686297:
+Device ID: 6b5ff09e-2e33-4192-b2ae-70f010e33bc7
+Batch ID: BATCH7410
+Serial Number: SN686297
+Manufacturing Date: 2023-03-16
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN705087:
+Device ID: bb8f051d-75d8-4014-b51b-c4dc8011df0d
+Batch ID: BATCH4922
+Serial Number: SN705087
+Manufacturing Date: 2022-07-28
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN330108:
+Device ID: bd5f9500-09da-4bfe-a2f0-2a17a227005b
+Batch ID: BATCH7374
+Serial Number: SN330108
+Manufacturing Date: 2022-05-18
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN546439:
+Device ID: d349fcea-ce9a-4c06-8490-73b7d4ad6d02
+Batch ID: BATCH9756
+Serial Number: SN546439
+Manufacturing Date: 2023-06-22
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN420050:
+Device ID: 0bef2a72-5863-4fc6-8c26-5b1307533638
+Batch ID: BATCH7817
+Serial Number: SN420050
+Manufacturing Date: 2022-02-16
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN690706:
+Device ID: 5ec29c59-aebb-4a18-92ba-407bb9f77129
+Batch ID: BATCH3421
+Serial Number: SN690706
+Manufacturing Date: 2023-02-10
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN140765:
+Device ID: 6478feb9-76c7-4837-be41-bc26ba9395ba
+Batch ID: BATCH2022
+Serial Number: SN140765
+Manufacturing Date: 2022-06-03
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN449081:
+Device ID: 4efff167-1074-4e44-9a90-40c9920e2f20
+Batch ID: BATCH4881
+Serial Number: SN449081
+Manufacturing Date: 2023-10-09
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN618185:
+Device ID: 717115d3-8df6-4a1f-bc00-3225bd7c1ac5
+Batch ID: BATCH9714
+Serial Number: SN618185
+Manufacturing Date: 2023-04-22
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN235934:
+Device ID: bbc9832c-2e32-437b-b834-74ac5dc04496
+Batch ID: BATCH4766
+Serial Number: SN235934
+Manufacturing Date: 2023-12-06
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN206504:
+Device ID: ea9812c7-15f6-4714-8239-25e7a947667b
+Batch ID: BATCH1156
+Serial Number: SN206504
+Manufacturing Date: 2023-08-15
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN356443:
+Device ID: 5a8143cb-e6ee-4f9a-b30a-1da34ef496c4
+Batch ID: BATCH7600
+Serial Number: SN356443
+Manufacturing Date: 2023-10-23
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN332880:
+Device ID: 3d52fe1f-2b4f-44c3-9d47-8403187b108b
+Batch ID: BATCH3392
+Serial Number: SN332880
+Manufacturing Date: 2022-10-11
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN741145:
+Device ID: 64b1d0bf-8c19-4741-874f-bb516c661bf7
+Batch ID: BATCH2940
+Serial Number: SN741145
+Manufacturing Date: 2023-01-25
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+⚠️ Could not decode QR for Serial Number SN521127.
+
+✅ QR Code Read for Serial Number SN606940:
+Device ID: 13ddec14-27ac-4310-99f4-442c4b0e0cc9
+Batch ID: BATCH1244
+Serial Number: SN606940
+Manufacturing Date: 2023-05-01
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN666817:
+Device ID: dcf7b5cb-4731-4fb2-a179-070752edd4bd
+Batch ID: BATCH5076
+Serial Number: SN666817
+Manufacturing Date: 2023-06-29
+RoHS Compliance: Non-Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN486966:
+Device ID: 91d726a5-b30f-4d24-bbc9-18d8600b7da1
+Batch ID: BATCH6528
+Serial Number: SN486966
+Manufacturing Date: 2023-10-18
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN456480:
+Device ID: c8d2951d-76db-4427-9c3d-e0387fb3b955
+Batch ID: BATCH3639
+Serial Number: SN456480
+Manufacturing Date: 2023-09-02
+RoHS Compliance: Compliant
+Label: broken_small
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN382791:
+Device ID: c7bd3f72-cd0d-4e48-b041-9503ebef6ab4
+Batch ID: BATCH2071
+Serial Number: SN382791
+Manufacturing Date: 2022-04-04
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN872215:
+Device ID: 91b493d0-d9b1-4d45-b8ba-64c6dd69ae1d
+Batch ID: BATCH2655
+Serial Number: SN872215
+Manufacturing Date: 2022-02-13
+RoHS Compliance: Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN216863:
+Device ID: d6b67e4c-b000-4a85-9022-e4ea917f7ac8
+Batch ID: BATCH4541
+Serial Number: SN216863
+Manufacturing Date: 2022-10-20
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN652933:
+Device ID: 7d3e3935-0a0f-4fdd-892b-4e1eab55c1ec
+Batch ID: BATCH2801
+Serial Number: SN652933
+Manufacturing Date: 2022-01-21
+RoHS Compliance: Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN988578:
+Device ID: 21b430a2-3caf-4692-a57b-39d922cba575
+Batch ID: BATCH2230
+Serial Number: SN988578
+Manufacturing Date: 2023-04-17
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN393851:
+Device ID: 0b430704-3f52-4f47-a1b4-868b174d1c00
+Batch ID: BATCH3510
+Serial Number: SN393851
+Manufacturing Date: 2023-01-17
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN684744:
+Device ID: 196c6473-cca7-4c54-aadb-d0f54023b3f1
+Batch ID: BATCH5601
+Serial Number: SN684744
+Manufacturing Date: 2022-11-19
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN699219:
+Device ID: 87e94f5a-eb02-4789-9eba-3f7e0aa02f3d
+Batch ID: BATCH7678
+Serial Number: SN699219
+Manufacturing Date: 2022-01-18
+RoHS Compliance: Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN328112:
+Device ID: 907c3a63-a093-4eb1-a87c-17637abcf7f8
+Batch ID: BATCH5794
+Serial Number: SN328112
+Manufacturing Date: 2023-11-03
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN305734:
+Device ID: ccff0505-7af8-4a1f-a83f-e76a31dc1dd1
+Batch ID: BATCH6213
+Serial Number: SN305734
+Manufacturing Date: 2023-07-31
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN473144:
+Device ID: a8d2fbe3-27b7-4a39-bccf-65bd2f5e1cdd
+Batch ID: BATCH2085
+Serial Number: SN473144
+Manufacturing Date: 2023-09-29
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN954447:
+Device ID: 0865ce95-35e7-4bb7-985d-137236969426
+Batch ID: BATCH6481
+Serial Number: SN954447
+Manufacturing Date: 2023-04-06
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN238520:
+Device ID: 621f94a1-a513-4402-80cb-1ce72dc69912
+Batch ID: BATCH8709
+Serial Number: SN238520
+Manufacturing Date: 2022-02-27
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN271523:
+Device ID: 21f35e68-31a0-484c-8d82-d0080fc1b4d3
+Batch ID: BATCH2973
+Serial Number: SN271523
+Manufacturing Date: 2022-06-16
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN844475:
+Device ID: eb26bf03-0845-46d3-a8bd-a429e062c82c
+Batch ID: BATCH2662
+Serial Number: SN844475
+Manufacturing Date: 2023-05-23
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN347398:
+Device ID: e356f770-339c-46af-a126-efaa704a10bc
+Batch ID: BATCH7121
+Serial Number: SN347398
+Manufacturing Date: 2022-12-10
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN204955:
+Device ID: 4dd72571-e8d1-4647-bd50-05365de68193
+Batch ID: BATCH9615
+Serial Number: SN204955
+Manufacturing Date: 2022-05-13
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN328344:
+Device ID: 2297226d-bf9a-4fce-afcb-6fab39caab30
+Batch ID: BATCH1648
+Serial Number: SN328344
+Manufacturing Date: 2022-08-27
+RoHS Compliance: Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN217609:
+Device ID: e2b00082-54af-4f6b-8580-3c8d3f83e507
+Batch ID: BATCH2678
+Serial Number: SN217609
+Manufacturing Date: 2023-03-23
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN478365:
+Device ID: e7544a7a-60cb-428d-b764-e86b54be3a0f
+Batch ID: BATCH5371
+Serial Number: SN478365
+Manufacturing Date: 2022-03-29
+RoHS Compliance: Non-Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN569258:
+Device ID: 82d6bfaf-20bc-4deb-9039-ad2d0a5e2099
+Batch ID: BATCH5417
+Serial Number: SN569258
+Manufacturing Date: 2023-02-17
+RoHS Compliance: Compliant
+Label: contamination
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN227583:
+Device ID: 0eebaaf4-0bdb-4e3e-bb88-e9fd11adc151
+Batch ID: BATCH8005
+Serial Number: SN227583
+Manufacturing Date: 2022-12-16
+RoHS Compliance: Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN156823:
+Device ID: 45e9e2cc-9516-4149-ad5c-485564cee55b
+Batch ID: BATCH1940
+Serial Number: SN156823
+Manufacturing Date: 2022-05-02
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN297603:
+Device ID: 283851d7-5ad9-4f43-9aeb-55c14ebf7a97
+Batch ID: BATCH1260
+Serial Number: SN297603
+Manufacturing Date: 2022-10-08
+RoHS Compliance: Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN331047:
+Device ID: b14cf8bf-34b5-4a40-a294-3d5da7b7683a
+Batch ID: BATCH2927
+Serial Number: SN331047
+Manufacturing Date: 2023-12-27
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN183497:
+Device ID: c8fa4fb2-cb5b-4332-8aac-3493457c40f0
+Batch ID: BATCH7053
+Serial Number: SN183497
+Manufacturing Date: 2023-02-25
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN205037:
+Device ID: 7a43fe56-2db2-462f-81f5-b2e349b33134
+Batch ID: BATCH8798
+Serial Number: SN205037
+Manufacturing Date: 2023-02-12
+RoHS Compliance: Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN362931:
+Device ID: 791e336c-3ac8-4dcd-8418-962306320bcf
+Batch ID: BATCH6258
+Serial Number: SN362931
+Manufacturing Date: 2022-12-09
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN758600:
+Device ID: 76510bd1-cc55-486d-8e5c-44c780bf93a2
+Batch ID: BATCH4826
+Serial Number: SN758600
+Manufacturing Date: 2023-02-10
+RoHS Compliance: Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN209771:
+Device ID: 7ed7dc04-2a0d-40ff-90ef-b3c3575869b1
+Batch ID: BATCH5930
+Serial Number: SN209771
+Manufacturing Date: 2022-09-28
+RoHS Compliance: Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN970032:
+Device ID: 08d2cc5d-6eb8-49a6-b3ec-7f462cd386bc
+Batch ID: BATCH6748
+Serial Number: SN970032
+Manufacturing Date: 2022-07-24
+RoHS Compliance: Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN281488:
+Device ID: a76fae50-dea6-4932-be33-365c0272e73e
+Batch ID: BATCH4245
+Serial Number: SN281488
+Manufacturing Date: 2022-04-06
+RoHS Compliance: Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN509451:
+Device ID: 92f50c97-037f-4d7c-b6c9-149770b0c0d9
+Batch ID: BATCH7301
+Serial Number: SN509451
+Manufacturing Date: 2023-11-02
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN893223:
+Device ID: d0579496-4a90-4884-a508-06a79c3a1c47
+Batch ID: BATCH4465
+Serial Number: SN893223
+Manufacturing Date: 2022-11-21
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN639784:
+Device ID: c9dd5244-d3bf-428e-8bd3-a4bced2b6c0e
+Batch ID: BATCH9012
+Serial Number: SN639784
+Manufacturing Date: 2022-03-15
+RoHS Compliance: Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN412803:
+Device ID: 110172b8-488e-4cec-8de8-8efd4164d811
+Batch ID: BATCH1294
+Serial Number: SN412803
+Manufacturing Date: 2023-03-08
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN997926:
+Device ID: ee35fa17-b97a-48d2-9a30-85f4948737de
+Batch ID: BATCH4218
+Serial Number: SN997926
+Manufacturing Date: 2022-05-23
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN592117:
+Device ID: 1d23ba19-c516-4fde-965f-96f8fde8905b
+Batch ID: BATCH7183
+Serial Number: SN592117
+Manufacturing Date: 2022-04-21
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN439621:
+Device ID: 06127029-2907-4ce8-939f-6e4d563a8407
+Batch ID: BATCH2562
+Serial Number: SN439621
+Manufacturing Date: 2022-06-11
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN546932:
+Device ID: 176a3ee5-d000-40db-9bad-362ba6143b38
+Batch ID: BATCH1817
+Serial Number: SN546932
+Manufacturing Date: 2022-04-04
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
+
+✅ QR Code Read for Serial Number SN782939:
+Device ID: dd305d3e-5233-4a61-8695-f597a3366938
+Batch ID: BATCH4903
+Serial Number: SN782939
+Manufacturing Date: 2022-10-27
+RoHS Compliance: Non-Compliant
+Label: good
+✅ QR Data Matched with CSV.
