@@ -123,7 +123,7 @@ Visit http://127.0.0.1:5000/
 
 ## 🧠 Authors & Acknowledgements
 
-* Developed by \[Your Name / Team Name]
+* Developed by - CodeClan
 * Special thanks to the **Cyfuture Hackathon 1.0** team for this opportunity
 * Dataset from [MVTec Anomaly Detection Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)
 
