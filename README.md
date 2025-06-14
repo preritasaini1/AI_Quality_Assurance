@@ -132,7 +132,11 @@ Visit http://127.0.0.1:5000/
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
-All rights reserved. No modifications are permitted without explicit permission from the project owners.
+You are free to use, modify, and distribute this software for personal or commercial purposes, **as long as proper credit is given to the original author**.
+
+Please do not remove the original license or claim authorship.  
+For attribution, retain the following:
+© 2025 preritasaini1
 
 ---
 
