@@ -132,8 +132,7 @@ Visit http://127.0.0.1:5000/
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute this software for personal or commercial purposes.  
-See the [LICENSE](LICENSE) file for more details.
+All rights reserved. No modifications are permitted without explicit permission from the project owners.
 
 ---
 
