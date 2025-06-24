@@ -1,6 +1,6 @@
 # AI Quality Assurance - Real-Time Defect Detection System
 
-This project is built for **Cyfuture Hackathon 1.0 – Challenge 3: Quality Assurance with AI**, focused on real-time defect detection in manufacturing using computer vision.
+This project is focused on real-time defect detection in manufacturing using computer vision.
 
 ---
 
