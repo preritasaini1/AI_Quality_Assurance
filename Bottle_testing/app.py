@@ -220,9 +220,5 @@ def log_to_csv(row, filename="qr_data_log.csv"):
     df = pd.DataFrame([row])
     df.to_csv(filename, mode='a', header=not file_exists, index=False)
 
-#if __name__ == '__main__':
-    #app.run(debug=True)
 if __name__ == '__main__':
-    import os
-    port = int(os.environ.get("PORT", 8080))
-    app.run(host="0.0.0.0", port=port)
+    app.run(debug=True)
