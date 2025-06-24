@@ -49,7 +49,7 @@ An end-to-end AI-powered quality assurance system that:
 
 ## 📸 Demo
 
-> 📹 [Demo Video Link](https://drive.google.com/file/d/1341ylmE9YRooJKVBdhgBntuZe_i0_GeF/view?usp=drivesdk)
+> 📹 [Demo Video Link](https://drive.google.com/file/d/1341ylmE9YRooJKVBdhgBntuZe_i0_GeF/view?usp=drivesdk) <br>
 > ✨ [Live Project Link](https://ai-quality-assurance.vercel.app/)
 
 ---
