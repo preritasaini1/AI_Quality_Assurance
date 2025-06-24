@@ -1,8 +1,0 @@
-Flask
-opencv-python
-tensorflow
-numpy
-Pillow
-qrcode
-matplotlib
-reportlab
