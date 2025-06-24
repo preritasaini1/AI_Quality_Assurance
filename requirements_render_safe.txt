@@ -1,0 +1,8 @@
+Flask
+opencv-python
+tensorflow==2.11.0
+numpy
+Pillow
+qrcode
+matplotlib
+reportlab
