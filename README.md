@@ -119,6 +119,7 @@ Visit http://127.0.0.1:5000/
 * Real-world webcam accuracy may vary (needs fine-tuning or retraining)
 * Real-time prediction is enhanced with freeze-frame + manual re-detect
 * Future improvement: YOLO-based cap detection, cloud traceability
+* The live link as mentioned in the repository is for the frontend only. To connect it with backend is pending.
 
 ---
 
